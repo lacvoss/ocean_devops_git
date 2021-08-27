@@ -2,3 +2,5 @@
 Curso de Devops Git - Ocean
 
 Alterando o cÃ³digo
+
+Alteração Local.
