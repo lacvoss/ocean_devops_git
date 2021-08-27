@@ -3,4 +3,6 @@ Curso de Devops Git - Ocean
 
 Alterando o cÃ³digo
 
-Alteração Local.
+Alteraï¿½ï¿½o Local.
+
+AlteraÃ§Ã£o remota.
