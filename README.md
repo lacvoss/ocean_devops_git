@@ -5,8 +5,7 @@ Alterando remoto
 
 Alterando local
 
-<<<<<<< Updated upstream
+
 Alterando remoto. (esta parte foi remoto)
-=======
-Alterando remoto.
->>>>>>> Stashed changes
+
+continuando as modifs
