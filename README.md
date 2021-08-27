@@ -1,8 +1,8 @@
 # ocean_devops_git
 Curso de Devops Git - Ocean
 
-Alterando o código
+Alterando remoto
 
-Altera��o Local.
+Alterando local
 
-Alteração remota.
+Alterando remoto
