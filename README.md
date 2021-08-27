@@ -9,3 +9,5 @@ Alterando local
 Alterando remoto. (esta parte foi remoto)
 
 continuando as modifs
+
+inserindo conteudo local
