@@ -5,4 +5,4 @@ Alterando remoto
 
 Alterando local
 
-Alterando remoto
+Alterando remoto. (esta parte foi remoto)
